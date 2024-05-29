@@ -1,3 +1,4 @@
-## My java project
-This is my new java project, here i go to insert news updates or realeases with testing and create news versions.
+## My java project v1.0.1
+
+I now am testing what all its ok.
 
