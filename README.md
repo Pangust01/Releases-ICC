@@ -2,4 +2,4 @@
 
 Add the class "ObjectController" and "ObjectView" to Main for run and i check what all this ok.
 
-
+![alt text](image.png)
