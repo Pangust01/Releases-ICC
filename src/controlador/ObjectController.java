@@ -9,7 +9,7 @@ public class ObjectController {
         int tamanio = toys.size();
         for (int i = 0; i < tamanio; i++) {
             if (toys.get(i).getCodigo()==codigo) {
-                return "Su codigo a encontrar es: "+toys.get(i).getCodigo();
+                return "Su codigo encontrado es: "+toys.get(i).getCodigo();
             }
         }
         return "No se encontro el codigo";

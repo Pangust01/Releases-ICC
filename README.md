@@ -1,5 +1,5 @@
-## My java project v1.0.4
+## My java project v2.0.0
 
-Create a new class "ObjectController" with a sequential search method for find a code of ArrayList.
-Create a new class "ObjectView" in the package "Vista". 
+Add the class "ObjectController" and "ObjectView" to Main for run and i check what all this ok.
+
 
