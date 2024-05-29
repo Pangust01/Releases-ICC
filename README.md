@@ -1,4 +1,4 @@
 ## My java project v1.0.1
 
-I now am testing what all its ok.
+Create a ArrayList with the Object "Juguetes"
 
