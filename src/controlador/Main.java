@@ -10,6 +10,6 @@ public class Main {
         toys.add(new Juguetes(3, "Max Steel", "Juguete de plastico"));
         toys.add(new Juguetes(4, "Hello Kitty", "Peluche"));
         toys.add(new Juguetes(5, "Rompecabezas", "Puzzles"));
-
+        
     }
 }
